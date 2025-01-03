@@ -38,7 +38,9 @@ Postgres hosted on AWS RDS:
 
 ![Postgres hosted on AWS RDS](https://github.com/user-attachments/assets/34184d85-5d1b-4dad-b21a-9f9d44c2bee3)
 
-https://github.com/sathvik3103/NASA-APOD-ETL-Pipeline/blob/23cac0fb47e49523ccc4a7a90e1ed1da4227b555/outputs/Postgres%20SQL%20table%20from%20AWS.png
+Viewing this Postgres SQL table using DBeaver:
+![Postgres SQL table from AWS](https://github.com/user-attachments/assets/5fb0f9fd-273f-4dd9-8231-9c02ef082a8d)
 
-To verify more outputs, check: [OUTPUTS](https://github.com/sathvik3103/NASA-APOD-ETL-Pipeline/tree/main/outputs)
+Airflow UI output:
+![Airflow UI](https://github.com/user-attachments/assets/47b8e60b-d359-4263-81f0-0093fd827025)
 
