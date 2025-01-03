@@ -38,5 +38,7 @@ Postgres hosted on AWS RDS:
 
 ![Postgres hosted on AWS RDS](https://github.com/user-attachments/assets/34184d85-5d1b-4dad-b21a-9f9d44c2bee3)
 
+https://github.com/sathvik3103/NASA-APOD-ETL-Pipeline/blob/23cac0fb47e49523ccc4a7a90e1ed1da4227b555/outputs/Postgres%20SQL%20table%20from%20AWS.png
+
 To verify more outputs, check: [OUTPUTS](https://github.com/sathvik3103/NASA-APOD-ETL-Pipeline/tree/main/outputs)
 
