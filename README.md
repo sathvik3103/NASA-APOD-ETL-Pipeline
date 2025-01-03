@@ -34,13 +34,13 @@ This stage involves extracting relevant fields like title, explanation, url, and
 The transformed data is loaded into a Postgres table using PostgresHook.
 If the target table doesn’t exist in the Postgres database, it is created automatically as part of the DAG using a create table task.
 
-Postgres hosted on AWS RDS:
+**Postgres hosted on AWS RDS:**
 
 ![Postgres hosted on AWS RDS](https://github.com/user-attachments/assets/34184d85-5d1b-4dad-b21a-9f9d44c2bee3)
 
-Viewing this Postgres SQL table using DBeaver:
+**Viewing this Postgres SQL table using DBeaver:**
 ![Postgres SQL table from AWS](https://github.com/user-attachments/assets/5fb0f9fd-273f-4dd9-8231-9c02ef082a8d)
 
-Airflow UI output:
+**Airflow UI output:**
 ![Airflow UI](https://github.com/user-attachments/assets/47b8e60b-d359-4263-81f0-0093fd827025)
 
